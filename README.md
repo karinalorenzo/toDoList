@@ -7,7 +7,7 @@
     - Delete an item
     - Change the position of an item in your list both up and down
 
-## Status: in progresss ⏳
+## Status: in progress ⏳
 
 ## Tecnologies used:
 
