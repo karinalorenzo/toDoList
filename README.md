@@ -22,4 +22,3 @@
 ![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white&style=flat)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?logo=openai&logoColor=white&style=flat)
 
-Result:
