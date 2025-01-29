@@ -1,4 +1,4 @@
-# Welcome to my ToDo List App!
+# This my version of ToDo List App!
 
 ## Requeriments
 
