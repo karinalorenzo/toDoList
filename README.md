@@ -1,4 +1,4 @@
-# Welcome to my ToDo List App!
+# This is my version of To-Do List App!
 
 ## Requeriments
 
@@ -7,7 +7,7 @@
     - Delete an item
     - Change the position of an item in your list both up and down
 
-## Status: in progresss ⏳
+## Status: in progress ⏳
 
 ## Tecnologies used:
 
